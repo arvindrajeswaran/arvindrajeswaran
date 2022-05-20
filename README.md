@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arvindrajeswaran
-- 👀 I’m interested in Azure and Gaming :) 
-- 🌱 I’m currently learning Terraform
+- 👀 I’m interested in Azure Infrastructure, Landing zone and Gaming :) 
+- 🌱 I’m currently learning advance Infrastructure as code services - Terraform, ARM JSON, ARM Bicep
 - 📫 How to reach me arvibest007@hotmail.com
 
 <!---
